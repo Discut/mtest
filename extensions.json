@@ -1,1 +1,18 @@
 
+[
+    {
+        "name":"BH3",
+        "pkg":"manga.extensions.bh3_extension",
+        "apkUrl":"",
+        "iconUrl":"",
+        "version":"1.0",
+        "versionCode":1,
+        "sources":[
+            {
+                "name":"BH3-soource1",
+                "id":1145141919810,
+                "baseUrl":""
+            }
+        ]
+    }
+]
