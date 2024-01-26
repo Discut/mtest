@@ -29,5 +29,20 @@
                 "baseUrl":""
             }
         ]
+    },
+    {
+        "name":"Komga",
+        "pkg":"manga.extensions.komga",
+        "apkUrl":"",
+        "iconUrl":"",
+        "version":"1.2",
+        "versionCode":3,
+        "sources":[
+            {
+                "name":"komga-soource1",
+                "id":1123443453,
+                "baseUrl":""
+            }
+        ]
     }
 ]
