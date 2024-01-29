@@ -3,7 +3,7 @@
     {
         "name":"BH3",
         "pkg":"manga.extensions.bh3_extension",
-        "apkUrl":"",
+        "apkUrl":"https://raw.githubusercontent.com/Discut/mtest/main/BH3.apk",
         "iconUrl":"",
         "version":"1.0",
         "versionCode":1,
