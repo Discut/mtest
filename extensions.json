@@ -14,5 +14,20 @@
                 "baseUrl":""
             }
         ]
+    },
+    {
+        "name":"Baimangu",
+        "pkg":"manga.extensions.baimangu",
+        "apkUrl":"https://raw.githubusercontent.com/Discut/mtest/main/Baimangu.apk",
+        "iconUrl":"",
+        "version":"1.0",
+        "versionCode":1,
+        "sources":[
+            {
+                "name":"Baimangu-soource1",
+                "id":176284322,
+                "baseUrl":""
+            }
+        ]
     }
 ]
